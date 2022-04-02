@@ -30,7 +30,7 @@ body{
   display: grid;
   justify-content: center;
   color: var(--Dark-grayish-cyan);
-  /* align-items: center; */
+  align-items: center;
 }
 
 
